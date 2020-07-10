@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm Lincoln, a Mechanical Engineering and Computer Science student interested in all things making/hacking, especially anything robotics related. I'm currently working on [CircuitPython](https://github.com/adafruit/CircuitPython) and [Glider](https://github.com/adafruit/Glider) through the MLH Fellowship program. If you're interested in any of my other projects check out my website [here!](https://lincolnroth.com) 
+
+
 
 <!--
 **lincolnmroth/lincolnmroth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
