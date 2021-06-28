@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Lincoln, a Mechanical Engineering and Computer Science student interested in all things making/hacking, especially anything robotics related. Currently, I'm working on underactuated robotics, specifically building a bipedal locomotion platform. This sumer I will be working as a Mechatronics Intern at ASML working on developing motion systems for next-generation Extreme Ultraviolet silicion chip manufacturing. 
 
-I also enjoy working on a lot of random hardware projects, so feel free to check some of them out [here](https://lincolnroth.com).
+
+I'm Lincoln, a Mechanical Engineering and Computer Science student interested in all things making/hacking, especially anything robotics related. I am currently working on control systems for EUV lithography systems as a Mechatronics Intern at ASML. I also enjoy working on a lot of random hardware projects, so feel free to check some of them out [here](https://lincolnroth.com).
 
 Last summer, I worked on [CircuitPython](https://github.com/adafruit/CircuitPython) and [Glider](https://github.com/adafruit/Glider) through the MLH Fellowship program. 
 
