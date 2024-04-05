@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm Lincoln, 
-
-I'm Lincoln, a engineer interested in all things making/hacking, especially anything robotics related. I'm currently a Firmware Engineer at [Second Order Effects](https://soeffects.com/), where I've done work for clients in many different industries including green energy (fusion!), satellites, medical devices, and rockets.
+I'm Lincoln, a engineer interested in all things making/hacking, especially anything robotics related. I'm currently a Firmware Engineer at [Second Order Effects](https://soeffects.com/), where I've done work for client's in many different industries including green energy (fusion!), satellites, medical devices, and rockets.
 
 I've previously worked for ASML as a mechantronics intern and [CircuitPython](https://github.com/adafruit/CircuitPython) through the MLH Fellowship.
 
