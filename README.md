@@ -1,15 +1,23 @@
-### Hi there 👋
+### Howdy y'all 👋
 
-I'm Lincoln, a engineer interested in all things making/hacking, especially anything robotics related. I'm currently a Firmware Engineer at [Second Order Effects](https://soeffects.com/), where I've done work for client's in many different industries including green energy (fusion!), satellites, medical devices, and rockets.
+Hi, I'm Lincoln!
+
+I'm currently a Firmware Engineer at [Second Order Effects](https://soeffects.com/), an engineering consulting firm that helps many clients across the deep tech space.
 
 I've previously worked for ASML as a mechantronics intern and [CircuitPython](https://github.com/adafruit/CircuitPython) through the MLH Fellowship.
 
 I studied Mechanical Engineering and Computer Science and have years of experience in the mechatronics/hardware development space covering mechanical, electrical, firmware and software engineering.
 Here are some of the cool things I've built and worked on:
-- Path-optimization to avoid impact of vibration on robot arms
+- Space-rated SSDs for satellites
+- Diagnostic systems for fusion reactors
+- Motor controllers for space robots
+- HITL's for rocket engine controllers
+- Test systems for 18650 battery binning
+- Optical diagnostics medical device prototype
+- Vibration diagnostics on robot arms used in semiconductor manufacturing
 - Small-scale simulation environment for self driving cars
 - CUDA accelerated CFD for flapping robot simulations
-- Live coding on microcontrollers
+- Live coding for microcontrollers over BLE
 - Solar Powered Race Car - I was the Mechanical lead for my universities solar car team
 - Autonomous firefighting robots
 - 3D-Printed 3D-Printer (based on an h-bot style kinematics platform)
