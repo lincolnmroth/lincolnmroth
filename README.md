@@ -2,9 +2,9 @@
 
 Hi, I'm Lincoln!
 
-I'm currently a Firmware Engineer at [Second Order Effects](https://soeffects.com/), an engineering consulting firm that helps many clients across the deep tech space.
+I'm currently a Member of Technical Staff at [LeafLabs](https://www.leaflabs.com/) an engineering consulting firm that helps many clients across the deep tech space, and previously I was a Firmware Engineer at [Second Order Effects](https://soeffects.com/).
 
-I've previously worked for ASML as a mechantronics intern and [CircuitPython](https://github.com/adafruit/CircuitPython) through the MLH Fellowship.
+I've previously worked for [ASML](https://www.asml.com/en) as a mechantronics intern and [CircuitPython](https://github.com/adafruit/CircuitPython) through the MLH Fellowship. I've also worked in a number of academic labs, working on research on everything from autonomous vehicles to custom CFD engines for flapping robots.
 
 I studied Mechanical Engineering and Computer Science and have years of experience in the mechatronics/hardware development space covering mechanical, electrical, firmware and software engineering.
 Here are some of the cool things I've built and worked on:
